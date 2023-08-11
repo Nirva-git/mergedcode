@@ -1,0 +1,24 @@
+/* welcome.component.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: blue;
+  }
+  
+  .button-wrapper {
+    margin-top: 40px;
+  }
+  
+  .button-wrapper button {
+    background-color: green;
+    color: white;
+    padding: 10px 70px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
